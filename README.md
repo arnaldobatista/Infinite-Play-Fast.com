@@ -1,4 +1,4 @@
-# Infinite-Play-Fast.com
+# Infinite Play - Fast.com
 
 ## SCRIPT PARA PLAY AUTOMATICO INFINITO NO FAST.COM
 
